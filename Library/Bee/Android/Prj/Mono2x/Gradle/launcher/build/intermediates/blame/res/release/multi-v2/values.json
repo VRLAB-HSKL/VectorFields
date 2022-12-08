@@ -1,0 +1,98 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\saerota\\Desktop\\benjaminProject\\VectorFields\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\saerota\\Desktop\\benjaminProject\\VectorFields\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "2,2",
+                        "startOffsets": "55,104",
+                        "endColumns": "47,65",
+                        "endOffsets": "100,167"
+                    },
+                    "to": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "101,151",
+                        "endColumns": "49,67",
+                        "endOffsets": "146,214"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\saerota\\Desktop\\benjaminProject\\VectorFields\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "5,2,7",
+                        "startColumns": "0,0,0",
+                        "startOffsets": "190,53,288",
+                        "endLines": "6,4,10",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "286,188,513"
+                    },
+                    "to": {
+                        "startLines": "25,36,39",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "1540,2186,2324",
+                        "endLines": "26,38,42",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "1635,2319,2546"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\saerota\\Desktop\\benjaminProject\\VectorFields\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\src\\main\\res\\values\\ids.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "46",
+                        "endOffsets": "97"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "45",
+                        "endOffsets": "96"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\saerota\\.gradle\\caches\\transforms-2\\files-2.1\\f8dc07911e705243130941f562ca6d41\\wvr_permission_client\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,151,215",
+                        "endColumns": "95,63,63",
+                        "endOffsets": "146,210,274"
+                    },
+                    "to": {
+                        "startLines": "5,6,7",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "219,315,379",
+                        "endColumns": "95,63,63",
+                        "endOffsets": "310,374,438"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\saerota\\.gradle\\caches\\transforms-2\\files-2.1\\ec5048e078bf4b357aedc40e68d27bbf\\wvr_client\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,19",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,190,1152",
+                        "endLines": "2,18,27",
+                        "endColumns": "134,8,8",
+                        "endOffsets": "185,1147,1693"
+                    },
+                    "to": {
+                        "startLines": "8,9,27",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "443,578,1640",
+                        "endLines": "8,24,35",
+                        "endColumns": "134,8,8",
+                        "endOffsets": "573,1535,2181"
+                    }
+                }
+            ]
+        }
+    ]
+}

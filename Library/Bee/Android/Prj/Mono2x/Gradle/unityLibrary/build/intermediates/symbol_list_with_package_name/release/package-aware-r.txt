@@ -1,0 +1,12 @@
+com.unity3d.player
+anim fade_in
+anim fade_out
+string notify_content
+string notify_key
+string notify_title
+string wvr_vr_mode_component
+style Animation_Activity_fade_in_out
+style BaseUnityTheme
+style Theme_WaveVR_Black
+style UnityThemeSelector
+style UnityThemeSelector_Translucent

@@ -1,0 +1,152 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.unity3d.player"
+5    android:versionCode="1"
+6    android:versionName="0.1" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="25"
+9-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="29" />
+10-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+11    <!-- <uses-permission android:name="android.permission.CAMERA" /> -->
+12    <!-- <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" /> -->
+13    <uses-permission android:name="vive.wave.vr.oem.data.OEMDataRead" />
+13-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:3-71
+13-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:20-68
+14    <uses-permission android:name="vive.wave.vr.oem.data.OEMDataWrite" />
+14-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:3-72
+14-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:20-69
+15
+16    <uses-feature android:glEsVersion="0x00030002" />
+16-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:3-52
+16-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:17-49
+17
+18    <uses-permission android:name="android.permission.INTERNET" />
+18-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:3-65
+18-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:20-62
+19    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+19-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:3-77
+19-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:20-74
+20
+21    <uses-feature
+21-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:3-88
+22        android:name="android.hardware.touchscreen"
+22-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:17-60
+23        android:required="false" />
+23-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:61-85
+24    <uses-feature
+24-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:29:3-99
+25        android:name="android.hardware.touchscreen.multitouch"
+25-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:29:17-71
+26        android:required="false" />
+26-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:29:72-96
+27    <uses-feature
+27-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:3-108
+28        android:name="android.hardware.touchscreen.multitouch.distinct"
+28-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:17-80
+29        android:required="false" />
+29-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:81-105
+30
+31    <application
+31-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:3-20:17
+32        android:extractNativeLibs="true"
+32-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:156-188
+33        android:icon="@mipmap/app_icon"
+33-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:189-220
+34        android:label="@string/app_name"
+34-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:16-48
+35        android:resizeableActivity="false"
+35-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:91-125
+36        android:theme="@style/Theme.WaveVR.Black"
+36-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:49-90
+37        tools:replace="android:theme" >
+37-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:126-155
+38
+39        <!-- You can use your theme here. -->
+40        <activity
+40-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:5-14:16
+41            android:name="com.htc.vr.unity.WVRUnityVRActivity"
+41-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:15-65
+42            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+42-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:222-403
+43            android:enableVrMode="@string/wvr_vr_mode_component"
+43-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:99-151
+44            android:hardwareAccelerated="false"
+44-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:439-474
+45            android:label="@string/app_name"
+45-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:66-98
+46            android:launchMode="singleTask"
+46-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:190-221
+47            android:resizeableActivity="false"
+47-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:404-438
+48            android:screenOrientation="landscape" >
+48-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:152-189
+49            <intent-filter>
+49-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:7-10:23
+50                <action android:name="android.intent.action.MAIN" />
+50-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:9-61
+50-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:17-58
+51
+52                <category android:name="android.intent.category.LAUNCHER" />
+52-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:9-69
+52-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:19-66
+53                <category android:name="com.htc.intent.category.VRAPP" />
+53-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:9-66
+53-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:19-63
+54            </intent-filter>
+55
+56            <meta-data
+56-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:7-82
+57                android:name="unityplayer.UnityActivity"
+57-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:18-58
+58                android:value="true" />
+58-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:59-79
+59            <meta-data
+59-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:7-90
+60                android:name="unityplayer.SkipPermissionsDialog"
+60-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:18-66
+61                android:value="true" />
+61-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:67-87
+62            <meta-data
+62-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:7-78
+63                android:name="android.notch_support"
+63-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:18-54
+64                android:value="true" />
+64-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:55-75
+65        </activity>
+66
+67        <meta-data
+67-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:5-69
+68            android:name="unity.splash-mode"
+68-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:16-48
+69            android:value="0" />
+69-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:49-66
+70        <meta-data
+70-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:5-74
+71            android:name="unity.splash-enable"
+71-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:16-50
+72            android:value="True" />
+72-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:51-71
+73        <meta-data
+73-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:5-78
+74            android:name="unity.launch-fullscreen"
+74-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:16-54
+75            android:value="True" />
+75-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:55-75
+76        <meta-data
+76-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:5-84
+77            android:name="unity.allow-resizable-window"
+77-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:16-59
+78            android:value="False" />
+78-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:60-81
+79        <meta-data
+79-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:5-81
+80            android:name="notch.config"
+80-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:16-43
+81            android:value="portrait|landscape" />
+81-->C:\Users\saerota\Desktop\benjaminProject\VectorFields\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:44-78
+82    </application>
+83
+84</manifest>
